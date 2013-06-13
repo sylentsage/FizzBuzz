@@ -1,0 +1,6 @@
+C:\Users\Terrance\Desktop\FizzBuzz\FizzBuss_UnitTest\FizzBuss_UnitTest\bin\Debug\FizzBuss_UnitTest.dll
+C:\Users\Terrance\Desktop\FizzBuzz\FizzBuss_UnitTest\FizzBuss_UnitTest\bin\Debug\FizzBuss_UnitTest.pdb
+C:\Users\Terrance\Desktop\FizzBuzz\FizzBuss_UnitTest\FizzBuss_UnitTest\bin\Debug\FizzBuzz.dll
+C:\Users\Terrance\Desktop\FizzBuzz\FizzBuss_UnitTest\FizzBuss_UnitTest\bin\Debug\FizzBuzz.pdb
+C:\Users\Terrance\Desktop\FizzBuzz\FizzBuss_UnitTest\FizzBuss_UnitTest\obj\Debug\FizzBuss_UnitTest.dll
+C:\Users\Terrance\Desktop\FizzBuzz\FizzBuss_UnitTest\FizzBuss_UnitTest\obj\Debug\FizzBuss_UnitTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\Terrance\Dropbox\Sage\MWSU\2013\Spring 13\Numerical Analysis\Projects\Project3\F_buzz\FizzBuzz_UnitTest\bin\Debug\FizzBuzz_UnitTest.dll
+C:\Users\Terrance\Dropbox\Sage\MWSU\2013\Spring 13\Numerical Analysis\Projects\Project3\F_buzz\FizzBuzz_UnitTest\bin\Debug\FizzBuzz_UnitTest.pdb
+C:\Users\Terrance\Dropbox\Sage\MWSU\2013\Spring 13\Numerical Analysis\Projects\Project3\F_buzz\FizzBuzz_UnitTest\bin\Debug\FizzBuzz.dll
+C:\Users\Terrance\Dropbox\Sage\MWSU\2013\Spring 13\Numerical Analysis\Projects\Project3\F_buzz\FizzBuzz_UnitTest\bin\Debug\FizzBuzz.pdb
+C:\Users\Terrance\Dropbox\Sage\MWSU\2013\Spring 13\Numerical Analysis\Projects\Project3\F_buzz\FizzBuzz_UnitTest\obj\Debug\FizzBuzz_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Terrance\Dropbox\Sage\MWSU\2013\Spring 13\Numerical Analysis\Projects\Project3\F_buzz\FizzBuzz_UnitTest\obj\Debug\FizzBuzz_UnitTest.dll
+C:\Users\Terrance\Dropbox\Sage\MWSU\2013\Spring 13\Numerical Analysis\Projects\Project3\F_buzz\FizzBuzz_UnitTest\obj\Debug\FizzBuzz_UnitTest.pdb
